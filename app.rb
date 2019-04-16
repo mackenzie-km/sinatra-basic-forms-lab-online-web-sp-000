@@ -1,9 +1,9 @@
 require_relative 'config/environment'
 
 class App < Sinatra::Base
-  get '/' do 
-  end 
+  get '/' do
+  end
 
-  post '/' do 
+  post '/' do
   end 
 end
